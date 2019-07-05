@@ -115,28 +115,20 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:heungbeom.kim@email.com
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://nfr.ventures"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/Tyga_kim"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/tiger.kim.hb"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/_tiger_kim"
+
 
 # Site Footer
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/Tyga_kim"
+      #url: "https://twitter.com/Tyga_kim"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/tiger.kim.hb"
+      #url: "https://facebook.com/tiger.kim.hb"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/_tiger_kim"
