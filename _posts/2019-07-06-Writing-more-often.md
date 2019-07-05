@@ -15,7 +15,7 @@ It's that simple.
 Same goes with writing. Only one way to write more often.. I should write more often.
 When we(at least I) try to write things, I care too much, plan too much.
 
-hmm what should I write about, is this sentence gramtically right?
+hmm what should I write about, is this sentence gramatically right?
 and I just fold my laptop. 'Maybe later.'
 
 I don't let that happen tonight. I will just post it anyway.
