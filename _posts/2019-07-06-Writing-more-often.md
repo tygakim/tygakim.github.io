@@ -18,4 +18,4 @@ When we(at least I) try to write things, I care too much, plan too much.
 hmm what should I write about, is this sentence gramatically right?
 and I just fold my laptop. 'Maybe later.'
 
-I don't let that happen tonight. I will just post it anyway.
+I won't let that happen tonight. Publishing it now.
