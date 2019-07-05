@@ -6,8 +6,8 @@ categories: jekyll update
 
 This is the first post at nfr.ventures
 
-I've always wanted to write more often. Even started a series called 'This week I've learned' and it became 'This month I've learned' and then..
-I could rename it 'This decades I've learned' or so.
+I've always wanted to write more often. Even started a series called 'This week I've learned' and it turned into 'This month I've learned' and then..
+I can rename it 'This decade I've learned' or so.
 
 There's only one way to find out if you are good at swimming. You swim. If you don't swim, you can't even know whether you like swimming or not.
 It's that simple.
