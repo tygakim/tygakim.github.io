@@ -3,9 +3,6 @@ title: "In the long-run"
 date: 2019-07-09 01:01:28 +0900
 categories: blog
 ---
-
-![1D2D](https://imgur.com/omAqCkb)
-
 In the long-run, everything becomes fond memories.
 
 It's one of my favorite mantras. *In the long-run.*
