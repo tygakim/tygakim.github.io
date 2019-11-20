@@ -4,8 +4,8 @@ date: 2019-11-22 10:15:28 +0900
 categories: blog
 ---
 
-I like to spend time with my loved one. The people who I feel comfortable with, I can respect. That’s where my happiness comes from - meaningful relationships
-When I meet people, with high probability, I can feel if we could hit it off or not. Luckily enough, I’ve made some great friends who inspire me, help me have a better life. I feel happy about it and sincerely feel grateful to them.
+I like to spend time with my loved one. The people who I feel comfortable with, I can respect. That’s where my happiness comes from - meaningful relationships.
+When I meet people, with high probability, I could tell if we would hit it off or not. Luckily enough, I’ve made some great friends who inspire me, help me have a better life. I'm happy about it and sincerely feel grateful to them.
 
 On the other hand, it means that I don’t spend much time with people who have different personalities. And I didn’t feel like I was missing things. Like I’ve said I’m pretty happy now and I love spending quality time with my people. I rarely look back and worry about what am I missing.
 
